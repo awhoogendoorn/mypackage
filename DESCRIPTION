@@ -1,0 +1,13 @@
+Package: mypackage
+Type: Package
+Title: mypackage
+Version: 0.1.0
+Author: Adriaan Hoogendoorn - with help of Natasha Mathur 
+Maintainer: Adriaan Hoogendoorn <a.hoogendoorn@ggzingeest.nl>
+Description: Code those nasty missing values
+    Very inappropriate from a statistical point of view according to the author/maintainer. 
+    https://hub.packtpub.com/how-to-create-your-own-r-package-with-rstudio-tutorial/
+Encoding: UTF-8
+License: file LICENSE
+LazyData: false
+RoxygenNote: 7.0.1

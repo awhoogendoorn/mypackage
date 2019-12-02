@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575278912903.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "16C2BE66",
+    "lastKnownWriteTime" : 1575268954,
+    "last_content_update" : 1575268954,
+    "path" : "C:/Users/AW.Hoogendoorn/Dropbox/Projects/git/mypackage/R/na2zero.R",
+    "project_path" : "R/na2zero.R",
+    "properties" : {
+        "cursorPosition" : "7,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
